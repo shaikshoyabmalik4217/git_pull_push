@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello sir
 
 I am working on the given assignment
 Hello from new feature
+=======
+Hello
+>>>>>>> d0f229109cb24e127924b7755c380adea44352e9
